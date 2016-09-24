@@ -1,0 +1,24 @@
+{
+  "name": "qrcode-image-webserver",
+  "version": "0.0.1",
+  "description": "a web server to generate qrcode image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gejiawen/qrcode-image-webserver.git"
+  },
+  "keywords": [
+    "qrcode",
+    "image",
+    "webserver"
+  ],
+  "author": "gejiawen <806717031@qq.com> (http://blog.gejiawen.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gejiawen/qrcode-image-webserver/issues"
+  },
+  "homepage": "https://github.com/gejiawen/qrcode-image-webserver#readme"
+}
