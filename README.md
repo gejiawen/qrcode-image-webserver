@@ -2,6 +2,16 @@
 
 > a web server to generate qrcode image
 
+## Usage
+
+```js
+node index
+```
+
+server start at port 5000.
+
+access server like this: `http://localhost:5000/?url=www.baidu.com`
+
 ## License
 
 MIT © [gejiawen](http://blog.gejiawen.com)
