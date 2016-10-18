@@ -5,12 +5,19 @@
 ## Usage
 
 ```js
-node index
+node index.js
 ```
 
 server start at port 5000.
 
 access server like this: `http://localhost:5000/?url=www.baidu.com`
+
+## url parameter
+
+`http://localhost:5000?url=www.baidu.com&size=6`
+
+- `url`, a url text. will auto preappend the http protocol when you lost it
+- `size`, size the qrcode image
 
 ## License
 

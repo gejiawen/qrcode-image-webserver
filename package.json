@@ -1,6 +1,6 @@
 {
   "name": "qrcode-image-webserver",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "a web server to generate qrcode image",
   "main": "index.js",
   "scripts": {
